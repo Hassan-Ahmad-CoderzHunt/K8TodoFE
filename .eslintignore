@@ -1,0 +1,6 @@
+node_modules/
+build/
+coverage/
+public/
+src/setupTests.js
+src/reportWebVitals.js
